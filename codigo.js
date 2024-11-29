@@ -1,4 +1,4 @@
 function funcion(){
-    print("Esto es una nueva funcion")
+    alert("Esto es una nueva funcion")
 }
 funcion()
